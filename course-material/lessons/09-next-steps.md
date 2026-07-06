@@ -43,6 +43,6 @@ Share your learnings. Join the [Kestra Slack community](https://kestra.io/slack)
 Complete the hands-on assignment to test your understanding of AI
 Copilot, RAG workflows, and agents in Kestra.
 
-See: [Module 3 Homework](../../cohorts/2026/03-orchestration/homework.md)
+See: [Module 3 Homework](../../cohorts/2026/course-material/homework.md)
 
 [← Best Practices](08-best-practices.md) | [Back to module →](../)

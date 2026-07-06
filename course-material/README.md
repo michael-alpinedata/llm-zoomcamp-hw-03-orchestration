@@ -51,7 +51,7 @@ Part 5 covers what you need to know before going to production - cost, security,
 
 ## Homework
 
-- [Homework](../cohorts/2026/03-orchestration/homework.md)
+- [Homework](../cohorts/2026/course-material/homework.md)
 
 
 ## Extra Resources

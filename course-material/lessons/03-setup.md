@@ -13,7 +13,7 @@ This module requires [Docker](https://docs.docker.com/get-started/get-docker/) w
 This module includes a `docker-compose.yml` with Kestra pre-configured:
 
 ```bash
-cd 03-orchestration
+cd course-material
 docker compose up -d
 ```
 
@@ -73,7 +73,7 @@ In flows, reference secrets with `{{ secret('GEMINI_API_KEY') }}` — omit the `
 ## Step 4: Import Example Flows
 
 ```bash
-cd 03-orchestration
+cd course-material
 
 # Adjust username and password to match your Kestra setup
 curl -X POST -u 'admin@kestra.io:Admin1234!' http://localhost:8080/api/v1/flows/import -F fileUpload=@flows/1_chat_without_rag.yaml
