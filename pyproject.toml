@@ -1,0 +1,7 @@
+[project]
+name = "llm-zoomcamp-hw-03-orchestration"
+version = "0.1.0"
+description = "homework 3 orchestration solution (LLM zoomcamp - DataTalksClub 2026)"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
