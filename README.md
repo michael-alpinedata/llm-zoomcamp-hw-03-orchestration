@@ -84,7 +84,7 @@ Run `4_simple_agent.yaml` with `summary_length = short` (leave the other inputs 
 
 Open the execution logs and find the token usage logged by the `log_token_usage` task.
 
-![Q3_4_simple_agent_log_token_usage](Q3_4_simple_agent_log_token_usage.png)
+![q3_4_simple_agent_log_token_usage](q3_4_simple_agent_log_token_usage.png)
 
 What is the approximate **output** token count for `multilingual_agent`?
 
@@ -98,7 +98,7 @@ What is the approximate **output** token count for `multilingual_agent`?
 Run `4_simple_agent.yaml` again with `summary_length = long`.
 
 Compare the `multilingual_agent` output token count to your result from Question 3. 
-![Q4_4_simple_agent_log_token_usage](Q4_4_simple_agent_log_token_usage.png)
+![q4_4_simple_agent_log_token_usage](q4_4_simple_agent_log_token_usage.png)
 
 Roughly how many times more output tokens does the long summary use?
 
@@ -113,7 +113,7 @@ Open `4_simple_agent.yaml` in the Kestra flow editor. Find the `english_brevity`
 
 Save the flow, then run it with `summary_length = long`.
 
-![Q5_4_simple_agent_log_token_usage](Q5_4_simple_agent_log_token_usage.png)
+![q5_4_simple_agent_log_token_usage](q5_4_simple_agent_log_token_usage.png)
 
 Compare the `english_brevity` output token count to the original 1-sentence version (also with `summary_length = long`). How do they compare?
 
